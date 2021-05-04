@@ -1,0 +1,10 @@
+wizard of legend klon
+
+
+Wizard of legend gameplay mit fester Kamera.
+2 Feste Skillsets(Feuer, Wasser) aus jeweils 3 Fähigkeiten(Dash, Angriff, aufgeladener Angriff) mit Pfeiltasten & yxc-Steuerung.
+Story: maybe mit climax und Lichtform(?)
+
+Story:
+1. Gleichgewicht der 4 Elemente wiederherstellen (evtl. Götter, Herostory)
+2. Hunger Trials (tournament)
